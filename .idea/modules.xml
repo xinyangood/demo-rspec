@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../demo160809/.idea/demo.iml" filepath="$PROJECT_DIR$/../demo160809/.idea/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo160809-rspec/.idea/demo-rspec.iml" filepath="$PROJECT_DIR$/../demo160809-rspec/.idea/demo-rspec.iml" />
     </modules>
   </component>
 </project>
